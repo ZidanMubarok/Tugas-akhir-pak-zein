@@ -1,0 +1,3 @@
+Ini merupakan kode yang digunakan untuk menghitung volume bangun ruang.
+Kode ini memiliki beberapa function dan list 'hasil_perhitungan'.
+List 'hasil_perhitungan' merupakan list kosong yang akan diisi.
